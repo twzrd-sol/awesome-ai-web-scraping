@@ -102,6 +102,7 @@ Visual or point-and-click tools that use AI to extract data without writing code
 - [Apify MCP](https://github.com/apify/actors-mcp-server) - Run any Apify Actor as an MCP tool. ![GitHub Repo stars](https://img.shields.io/github/stars/apify/actors-mcp-server?style=social)
 - [WebScraping.AI MCP](https://webscraping.ai/docs/mcp) - MCP integration for WebScraping.AI's extraction tools.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agent wallets on Solana. Verify agent identity and autonomy score before authorizing x402 micropayments in scraping pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Web Search APIs for LLMs
 
 Search APIs that return structured, LLM-friendly results with full-page content.
